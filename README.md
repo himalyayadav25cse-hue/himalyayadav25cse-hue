@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himalya Yadav</h1>
-<h3 align="center">🚀 CSE Student | Developer | Problem Solver</h3>
+<h3 align="center">🤖 CSE Student | Aspiring AI Engineer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Competitive+Programmer;Full+Stack+Developer;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Aspiring+AI+Engineer;Learning+Machine+Learning+%26+AI;Competitive+Programmer;Always+learning+new+things!" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,27 +10,45 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Studying **Computer Science Engineering** at BML Munjal University
-- 💻 Passionate about **coding, problem solving & building projects**
-- 🌱 Currently learning **Data Structures, Algorithms & Web Development**
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 🌱 Currently learning **Basic AI, Python, Data Structures & Algorithms**
 - 🏆 Active on **LeetCode** — solving problems daily
+- 💡 Dream: **Build intelligent systems that change the world**
 - 📫 Reach me at: **himalya.yadav.25cse@bmu.edu.in**
-- ⚡ Fun fact: I turn ☕ coffee into 💻 code!
+- ⚡ Fun fact: I believe **AI is the future** and I am building towards it!
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🤖 AI & Tech Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
+---
+
+## 🛣️ My AI Learning Roadmap
+
+```
+✅ Python Basics
+✅ Git & GitHub
+🔄 Data Structures & Algorithms  ← Currently Here
+⏳ Mathematics for AI (Linear Algebra, Statistics)
+⏳ Machine Learning Basics
+⏳ Deep Learning & Neural Networks
+⏳ Natural Language Processing (NLP)
+⏳ Build AI Projects
+🎯 Goal: Become an AI Engineer
+```
 
 ---
 
@@ -84,4 +102,4 @@
   <img src="https://komarev.com/ghpvc/?username=himalyayadav25cse-hue&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">⭐ <b>Star my repos if you find them useful!</b> ⭐</p>
+<p align="center">🤖 <b>The future belongs to those who learn AI today!</b> 🤖</p>
